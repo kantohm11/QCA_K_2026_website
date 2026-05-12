@@ -7,6 +7,7 @@ format:
     toc: true
     theme: cosmo
     page-layout: full
+    embed-resources: true
 ---
 
 ## Overview
