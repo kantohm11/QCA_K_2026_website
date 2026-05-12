@@ -2244,7 +2244,7 @@ vertical-align: -.125em;
 </section>
 <section id="contact" class="level2">
 <h2 class="anchored" data-anchor-id="contact">Contact</h2>
-<p>Kantaro Ohmori — <span class="copy-email" data-email="kantaro.omori@riken.jp" onclick="(function(el){const e=el.dataset.email;(navigator.clipboard&amp;&amp;navigator.clipboard.writeText(e)||Promise.reject()).catch(()=&gt;{const t=document.createElement(&#39;textarea&#39;);t.value=e;document.body.appendChild(t);t.select();document.execCommand(&#39;copy&#39;);t.remove();}).finally(()=&gt;{const o=el.textContent;el.textContent=&#39;copied: &#39;+e;el.classList.add(&#39;copied&#39;);setTimeout(()=&gt;{el.textContent=o;el.classList.remove(&#39;copied&#39;);},1500);});})(this)">click here to copy email address</span>.</p>
+<p>Kantaro Ohmori — <span class="copy-email" data-key="kantaro" onclick="(async function(el){try{const r=await fetch(&#39;contact.json&#39;,{cache:&#39;no-store&#39;});const j=await r.json();const e=atob(j[el.dataset.key]);try{await navigator.clipboard.writeText(e);}catch{const t=document.createElement(&#39;textarea&#39;);t.value=e;document.body.appendChild(t);t.select();document.execCommand(&#39;copy&#39;);t.remove();}const o=el.textContent;el.textContent=&#39;copied: &#39;+e;el.classList.add(&#39;copied&#39;);setTimeout(()=&gt;{el.textContent=o;el.classList.remove(&#39;copied&#39;);},2000);}catch(err){el.textContent=&#39;copy failed — try again&#39;;}})(this)">click here to copy email address</span>.</p>
 </section>
 
 </main>

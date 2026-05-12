@@ -36,5 +36,5 @@ Details will be announced here.
 ## Contact
 
 Kantaro Ohmori —
-<span class="copy-email" data-email="kantaro.omori@riken.jp"
-      onclick="(function(el){const e=el.dataset.email;(navigator.clipboard&&navigator.clipboard.writeText(e)||Promise.reject()).catch(()=>{const t=document.createElement('textarea');t.value=e;document.body.appendChild(t);t.select();document.execCommand('copy');t.remove();}).finally(()=>{const o=el.textContent;el.textContent='copied: '+e;el.classList.add('copied');setTimeout(()=>{el.textContent=o;el.classList.remove('copied');},1500);});})(this)">click here to copy email address</span>.
+<span class="copy-email" data-key="kantaro"
+      onclick="(async function(el){try{const r=await fetch('contact.json',{cache:'no-store'});const j=await r.json();const e=atob(j[el.dataset.key]);try{await navigator.clipboard.writeText(e);}catch{const t=document.createElement('textarea');t.value=e;document.body.appendChild(t);t.select();document.execCommand('copy');t.remove();}const o=el.textContent;el.textContent='copied: '+e;el.classList.add('copied');setTimeout(()=>{el.textContent=o;el.classList.remove('copied');},2000);}catch(err){el.textContent='copy failed — try again';}})(this)">click here to copy email address</span>.
