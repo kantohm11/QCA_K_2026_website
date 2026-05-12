@@ -1,0 +1,32 @@
+---
+title: "QCA-K 2026 Mini-Workshop"
+date: 2026-08-08
+author: ""
+format:
+  html:
+    toc: true
+    theme: cosmo
+    page-layout: full
+---
+
+## Overview
+
+A one-day mini-workshop held on **August 8, 2026**.
+
+- **Date:** August 8, 2026
+- **Venue:** TBA
+- **Organizers:** TBA
+
+## Program
+
+| Time | Speaker | Title |
+|------|---------|-------|
+| TBA  | TBA     | TBA   |
+
+## Registration
+
+Details will be announced here.
+
+## Contact
+
+For inquiries, please contact the organizers.
