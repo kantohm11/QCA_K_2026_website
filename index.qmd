@@ -1,28 +1,33 @@
 ---
-title: "QCA-K 2026 Mini-Workshop"
-date: 2026-08-08
-author: ""
+title: "RIKEN–IPMU mini-workshop on QCA and K-theory"
 format:
   html:
     toc: true
     theme: cosmo
     page-layout: full
     embed-resources: true
+    include-in-header:
+      text: |
+        <style>
+          .copy-email { cursor: pointer; color: #2780e3; text-decoration: underline; }
+          .copy-email.copied { color: #28a745; }
+        </style>
 ---
 
 ## Overview
 
-A one-day mini-workshop held on **August 8, 2026**.
-
-- **Date:** August 8, 2026
-- **Venue:** TBA
-- **Organizers:** TBA
+- **Dates:** August 24–26, 2026
+- **Venue:** Kavli IPMU, The University of Tokyo
+- **Organizers:**
+  - Kantaro Ohmori (RIKEN)
+  - Shuhei Ohyama (RIKEN)
+  - Mayuko Yamashita (RIKEN)
 
 ## Program
 
-| Time | Speaker | Title |
-|------|---------|-------|
-| TBA  | TBA     | TBA   |
+| Date | Time | Speaker | Title |
+|------|------|---------|-------|
+| TBA  | TBA  | TBA     | TBA   |
 
 ## Registration
 
@@ -30,4 +35,6 @@ Details will be announced here.
 
 ## Contact
 
-For inquiries, please contact the organizers.
+Kantaro Ohmori —
+<span class="copy-email" data-email="kantaro.omori@riken.jp"
+      onclick="(function(el){const e=el.dataset.email;(navigator.clipboard&&navigator.clipboard.writeText(e)||Promise.reject()).catch(()=>{const t=document.createElement('textarea');t.value=e;document.body.appendChild(t);t.select();document.execCommand('copy');t.remove();}).finally(()=>{const o=el.textContent;el.textContent='copied: '+e;el.classList.add('copied');setTimeout(()=>{el.textContent=o;el.classList.remove('copied');},1500);});})(this)">click here to copy email address</span>.
