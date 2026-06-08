@@ -48,8 +48,8 @@ Whether online streaming will be available is to be determined.
 
 This workshop is supported by:
 
-- JSPS KAKENHI Grant-in-Aid for Scientific Research (B), No. 24K00522 — PI: Mayuko Yamashita (Co-Investigator: Kantaro Ohmori)
-- JSPS KAKENHI Grant-in-Aid for Scientific Research (C), No. 24K06883 — PI: Yuji Tachikawa
+- JSPS KAKENHI Grant-in-Aid for Scientific Research (B), No. [24K00522](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K00522/) — PI: Mayuko Yamashita (Co-Investigator: Kantaro Ohmori)
+- JSPS KAKENHI Grant-in-Aid for Scientific Research (C), No. [24K06883](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-24K06883/) — PI: Yuji Tachikawa
 
 ## Contact
 
