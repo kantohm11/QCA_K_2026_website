@@ -21,7 +21,7 @@ format:
 - **Organizers:**
   - Kantaro Ohmori (RIKEN)
   - Shuhei Ohyama (RIKEN)
-  - Mayuko Yamashita (RIKEN)
+  - Mayuko Yamashita (Perimeter / RIKEN)
   - Yuji Tachikawa (Kavli IPMU)
 
 ## Program
