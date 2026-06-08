@@ -21,19 +21,35 @@ format:
 - **Organizers:**
   - Kantaro Ohmori (RIKEN)
   - Shuhei Ohyama (RIKEN)
+  - Yuji Tachikawa (Kavli IPMU)
   - Mayuko Yamashita (RIKEN)
 
 ## Program
 
-| Date | Time | Speaker | Title |
-|------|------|---------|-------|
-| TBA  | TBA  | TBA     | TBA   |
+Three-day lecture series by [Bowen Yang](https://yangbowenmath.github.io/yangbowenmath/index.html) (joint work with Mattie Ji).
+
+**Title:** *Quantum Cellular Automata: the Group, the Space, and the Spectrum* ([arXiv:2602.16572](https://arxiv.org/abs/2602.16572))
+
+| Date            | Time          |
+|-----------------|---------------|
+| Mon, August 24  | 15:30 – 17:00 |
+| Tue, August 25  | 15:30 – 17:00 |
+| Wed, August 26  | 15:30 – 17:00 |
+
+**Abstract.** The lectures develop a theory of quantum cellular automata (QCA) over commutative rings via algebraic K-theory. A space $\mathbf{Q}(X)$ classifying QCA is constructed so that $\pi_0 \mathbf{Q}(X)$ recovers QCA modulo quantum circuits and stabilization in cases of interest. Homotopy equivalences across dimensions yield an $\Omega$-spectrum for Euclidean lattices, giving a non-connective delooping of the K-theory of Azumaya algebras. Extensions to C*-algebras with unitary circuits are also discussed.
 
 ## Registration
 
 In-person registration: [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSefLIm05c3cNIB5a3Kp1_X_1vajeVNr5n26lC7Bvv422hudMg/viewform?usp=header).
 
 Whether online streaming will be available is to be determined.
+
+## Support
+
+This workshop is supported by:
+
+- JSPS KAKENHI Grant-in-Aid for Scientific Research (B), No. 24K00522 — PI: Mayuko Yamashita (Co-Investigator: Kantaro Ohmori)
+- JSPS KAKENHI Grant-in-Aid for Scientific Research (C), No. 24K06883 — PI: Yuji Tachikawa
 
 ## Contact
 
