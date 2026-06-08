@@ -21,22 +21,20 @@ format:
 - **Organizers:**
   - Kantaro Ohmori (RIKEN)
   - Shuhei Ohyama (RIKEN)
-  - Yuji Tachikawa (Kavli IPMU)
   - Mayuko Yamashita (RIKEN)
+  - Yuji Tachikawa (Kavli IPMU)
 
 ## Program
 
-Three-day lecture series by [Bowen Yang](https://yangbowenmath.github.io/yangbowenmath/index.html) (joint work with Mattie Ji).
+Three-day lecture series by [Bowen Yang](https://yangbowenmath.github.io/yangbowenmath/index.html), based on [arXiv:2602.16572](https://arxiv.org/abs/2602.16572) (joint work with Mattie Ji), in which quantum cellular automata are classified by an algebraic K-theory spectrum.
 
-**Title:** *Quantum Cellular Automata: the Group, the Space, and the Spectrum* ([arXiv:2602.16572](https://arxiv.org/abs/2602.16572))
+**Title:** TBD
 
 | Date            | Time          |
 |-----------------|---------------|
 | Mon, August 24  | 15:30 – 17:00 |
 | Tue, August 25  | 15:30 – 17:00 |
 | Wed, August 26  | 15:30 – 17:00 |
-
-**Abstract.** The lectures develop a theory of quantum cellular automata (QCA) over commutative rings via algebraic K-theory. A space $\mathbf{Q}(X)$ classifying QCA is constructed so that $\pi_0 \mathbf{Q}(X)$ recovers QCA modulo quantum circuits and stabilization in cases of interest. Homotopy equivalences across dimensions yield an $\Omega$-spectrum for Euclidean lattices, giving a non-connective delooping of the K-theory of Azumaya algebras. Extensions to C*-algebras with unitary circuits are also discussed.
 
 ## Registration
 
