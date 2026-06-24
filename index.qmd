@@ -26,7 +26,7 @@ format:
 
 ## Program
 
-Three-day lecture series by [Bowen Yang](https://yangbowenmath.github.io/yangbowenmath/index.html), based on [arXiv:2602.16572](https://arxiv.org/abs/2602.16572) (joint work with Mattie Ji), in which quantum cellular automata are classified by an algebraic K-theory spectrum.
+Three-day lecture series by [Bowen Yang](https://yangbowenmath.github.io/yangbowenmath/index.html), based on joint work with Mattie Ji ([arXiv:2602.16572](https://arxiv.org/abs/2602.16572) and [arXiv:2606.19657](https://arxiv.org/abs/2606.19657)), in which quantum cellular automata are classified by an algebraic K-theory spectrum.
 
 **Title:** TBD
 
