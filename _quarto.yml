@@ -3,3 +3,4 @@ project:
   output-dir: docs
   resources:
     - contact.json
+    - QCA_K_2026_lecture_notes.pdf
